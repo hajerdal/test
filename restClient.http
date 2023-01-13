@@ -1,0 +1,4 @@
+###
+GET http://localhost:5000/api/transactions?transactionId=5c868b22eb7069b50c6d2d32&confidenceLevel=1 HTTP/1.1
+
+###result result
