@@ -8,7 +8,7 @@
 
 ## About <a name = "about"></a>
 
-Backend API en utilisant Node.js, Express et MongoDB.
+Backend API en utilisant Node.js, Express
 
 ## Getting Started <a name = "getting_started"></a>
 
