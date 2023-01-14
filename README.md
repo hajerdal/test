@@ -24,22 +24,18 @@ To test the project you need to install "REST Client" extension in your vscode o
 
 A step by step series of examples that tell you how to get a development env running.
 
-git clone https://github.com/MarwenBenTalebAli/backendExample.git
+git clone https://github.com/hajerdal/test
 
 cd TCHNICAL_TEST
 
 npm install
 
-In the TCHNICAL_TEST folder create a .env file with your own database url
-
-example: DATABASE=mongodb://localhost/database
-
-Check the ".env.example" file.
-
-npm start
+npm run dev
 
 ## Usage <a name = "usage"></a>
 
 Check the restClient.http file in the TCHNICAL_TEST folder.
 
 Note: You don't need to restart the project each time you change the code.
+
+run the GET request (with send request) you will receive the result of the function
